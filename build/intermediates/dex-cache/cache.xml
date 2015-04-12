@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/youshengchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da8ad99330849f3485026c7bb7cd5863a0e9c663.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/pre-dexed/debug/gson-2.3.1-5bc2eb02f91d3554257ff40bef3173b581451440.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/pre-dexed/debug/classes-c726781afc1a64f8d54bae430832dc6aa3c0d7a5.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a73b7f7dfc46ff255f487b63a4a706942c3e6d1a.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/Retrofit/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-68cec35458cde617f029b3d0219b0ad5b8a16cac.jar" />
+    </item>
+
+</items>
